@@ -1,3 +1,0 @@
-POST http://localhost:8080/posts
-Content-Type: application/json
-@/home/nakama/go/task1-simpler/payload.json
